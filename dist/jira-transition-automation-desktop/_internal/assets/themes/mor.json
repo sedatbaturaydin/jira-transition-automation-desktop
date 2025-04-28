@@ -1,0 +1,13 @@
+{
+  "name": "purple_theme",
+  "colors": {
+    "primary_color": ["#9b59b6", "#8e44ad"],
+    "text_color": ["#ffffff", "#ffffff"],
+    "button_color": ["#9b59b6", "#8e44ad"],
+    "hover_color": ["#8e44ad", "#7d3c98"],
+    "background_color": ["#121212", "#121212"],
+    "entry_color": ["#1e1e1e", "#1e1e1e"],
+    "border_color": ["#9b59b6", "#8e44ad"],
+    "scrollbar_color": ["#666666", "#666666"]
+  }
+}
